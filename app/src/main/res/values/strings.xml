@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Julia</string>
+    <string name="fakeShowIdHint">123</string>
+    <string name="offlineLimitHint">100</string>
+    <string name="SAVE_BUTTON_TEXT">Save</string>
+    <string name="CLEAR_BUTTON_TEXT">Clear</string>
+    <string name="FAKE_SHOW_ID_LABEL">Fake Show Id</string>
+    <string name="ENABLE_TIPPING_LABEL">Enable Tipping</string>
+    <string name="OFFLINE_LIMIT_LABEL">Offline Limit</string>
+    <string name="COPY_BUTTON_TEXT">COPY</string>
+</resources>
